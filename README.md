@@ -1,4 +1,2 @@
-# A little bit about myself:
-- Studied iOS development during Covid pandemic.
-- Writing iOS apps since 2020.
-- Writing code for food since 2021.
+# iOS Projects
+![giphy](https://github.com/maksim-mitrofanov/iOS-Projects/assets/87092187/0f61906f-ce71-4b1e-82c4-6c9a7f2b9e9c)
