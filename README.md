@@ -1,12 +1,10 @@
-# iOS Projects 
-
-### Technical assignments:
+## Technical assignments:
 | Title | Description | Key features |
 | :---  | :----       | :------ |
 | Hello | World!      | 2024 |
 
 
-### Pet projects:
+## Pet projects:
 | Title | Description | Key features |
 | :---  | :----       | :------ |
 | Hello | World!      | 2024 |
