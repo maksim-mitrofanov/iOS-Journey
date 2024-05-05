@@ -1,4 +1,4 @@
-# iOS Projects 🍎
+# iOS Projects 
 
 ### Technical assignments:
 | Title | Description | Key features |
